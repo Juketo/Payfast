@@ -1,0 +1,28 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juketo/Payfast.git"
+  },
+  "author": "Julio Maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juketo/Payfast/issues"
+  },
+  "homepage": "https://github.com/Juketo/Payfast#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "consign": "^0.1.4",
+    "express": "^4.15.2",
+    "express-validator": "^3.2.0",
+    "mysql": "^2.13.0",
+    "restify": "^4.3.0",
+    "soap": "^0.19.0"
+  }
+}
